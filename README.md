@@ -1,0 +1,1 @@
+# wow-guild-auto-generate-web-page
