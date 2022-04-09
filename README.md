@@ -1,5 +1,4 @@
 # wow-guild-auto-generate-web-page
->Work in progress
 [![License](https://img.shields.io/github/license/valsan-azerty-boi/wow-guild-auto-generate-web-page.svg)](https://github.com/valsan-azerty-boi/wow-guild-auto-generate-web-page/blob/master/LICENSE)
 [![Commit](https://img.shields.io/github/last-commit/valsan-azerty-boi/wow-guild-auto-generate-web-page.svg)](https://github.com/valsan-azerty-boi/wow-guild-auto-generate-web-page/commits/master)
 
